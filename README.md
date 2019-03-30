@@ -22,7 +22,8 @@ https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_s
 https://developer.vive.com/eu
 - VIVE HTC Hand Tracking
 https://developer.vive.com/resources/knowledgebase/vive-hand-tracking-sdk
-
+- CaptoGlove SDK
+https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk/
 
 Project Management
 - Free Jira Alternatives
