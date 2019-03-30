@@ -22,7 +22,9 @@ https://developer.vive.com/eu
 - VIVE HTC Hand Tracking
 https://developer.vive.com/resources/knowledgebase/vive-hand-tracking-sdk
 - CaptoGlove SDK
-https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk/
+https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk
+- CaptoGlove SDKs C++
+https://www.captoglove.com/downloads-sdk
 
 Project Management
 - Free Jira Alternatives
