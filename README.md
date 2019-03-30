@@ -29,6 +29,9 @@ https://www.captoglove.com/applications/developers-applications-portfolio
 https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk
 - CaptoGlove SDKs C++
 https://www.captoglove.com/downloads-sdk
+- NAO Starting Python SDK
+http://doc.aldebaran.com/2-1/getting_started/index.html
+
 
 Project Management
 - Free Jira Alternatives
