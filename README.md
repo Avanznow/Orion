@@ -11,6 +11,5 @@ http://doc.aldebaran.com/2-1/home_nao.html
 - NAO Documentation
 http://doc.aldebaran.com/2-1/home_nao.html
 
-- BSD License
-More details
+- BSD License / More details
 https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html
