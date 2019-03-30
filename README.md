@@ -8,6 +8,8 @@ https://www.wikihow.com/Find-the-Pleiades-Star-Cluster#/Image:Find-the-Pleiades-
 https://www.youtube.com/watch?v=_7rED-5V_b8
 - The real guardian of the Galaxy
 https://me.me/i/the-original-guardian-of-the-galaxy-anyone-remember-orion-from-3917249
+- He is the Maker of the Bear and Orion 
+https://www.slooh.com/community/post/3363
 
 Tech Documentation
 - Aldebaran / NAO Documentation
