@@ -17,6 +17,12 @@ http://doc.aldebaran.com/2-1/home_nao.html
 http://doc.aldebaran.com/2-4/dev/python/examples/vision/get_image.html
 - NAO Video Camera documentation
 http://doc.aldebaran.com/2-1/family/robots/video_robot.html
+- NAO Face Recognition
+https://www.youtube.com/watch?v=nF2suPjTF9g
+- NAO Speech Recognition
+https://www.youtube.com/watch?v=5pMx-K7AnEA
+
+********* VIVE HTC *********
 - Using Skype with the Vive
 https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_solution_to
 - VIVE HTC SDK
