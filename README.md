@@ -18,6 +18,11 @@ http://doc.aldebaran.com/2-1/home_nao.html
 http://doc.aldebaran.com/2-4/dev/python/examples/vision/get_image.html
 - Using Skype with the Vive
 https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_solution_to
+- VIVE HTC SDK
+https://developer.vive.com/eu
+- VIVE HTC Hand Tracking
+https://developer.vive.com/resources/knowledgebase/vive-hand-tracking-sdk
+
 
 Project Management
 - Free Jira Alternatives
