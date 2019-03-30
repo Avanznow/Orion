@@ -1,5 +1,4 @@
 # Orion
-Avatar
 
 Code4Fun
 - How to find Orion
