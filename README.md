@@ -21,6 +21,8 @@ https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_s
 https://developer.vive.com/eu
 - VIVE HTC Hand Tracking
 https://developer.vive.com/resources/knowledgebase/vive-hand-tracking-sdk
+- CaptoGlove Developers
+https://www.captoglove.com/applications/developers-applications-portfolio
 - CaptoGlove SDK
 https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk
 - CaptoGlove SDKs C++
