@@ -13,5 +13,6 @@ http://doc.aldebaran.com/2-1/home_nao.html
 - How to get images from NAO Cameras
 http://doc.aldebaran.com/2-4/dev/python/examples/vision/get_image.html
 
-- BSD License / More details
+License
+- BSD 3 / More details
 https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html
