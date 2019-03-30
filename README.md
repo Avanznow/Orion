@@ -19,6 +19,16 @@ http://doc.aldebaran.com/2-4/dev/python/examples/vision/get_image.html
 - Using Skype with the Vive
 https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_solution_to
 
+Project Management
+- Free Jira Alternatives
+https://www.codeinwp.com/blog/free-jira-alternatives
+- Todoisst
+https://www.guidingtech.com/47169/todoist-premium-worth-paying
+- Github + Todoist
+https://zapier.com/apps/github/integrations/todoist
+- Todoist video
+https://en.todoist.com/tour
+
 License
 - BSD 3 / More details
 https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html
