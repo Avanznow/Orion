@@ -76,6 +76,10 @@ https://zapier.com/apps/github/integrations/todoist
 - Todoist video
 https://en.todoist.com/tour
 
+Documentation
+- Developer's Manual
+- User's Manual
+
 License
 - BSD 3 / More details
 https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html
