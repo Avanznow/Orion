@@ -11,6 +11,7 @@ https://me.me/i/the-original-guardian-of-the-galaxy-anyone-remember-orion-from-3
 https://www.slooh.com/community/post/3363
 
 Tech Documentation
+********* NAO6 ROBOT *********
 - Aldebaran / NAO Documentation
 http://doc.aldebaran.com/2-1/home_nao.html
 - How to get images from NAO Cameras
@@ -21,7 +22,6 @@ http://doc.aldebaran.com/2-1/family/robots/video_robot.html
 https://www.youtube.com/watch?v=nF2suPjTF9g
 - NAO Speech Recognition
 https://www.youtube.com/watch?v=5pMx-K7AnEA
-
 ********* VIVE HTC *********
 - Using Skype with the Vive
 https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_solution_to
@@ -29,6 +29,7 @@ https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_s
 https://developer.vive.com/eu
 - VIVE HTC Hand Tracking
 https://developer.vive.com/resources/knowledgebase/vive-hand-tracking-sdk
+********* CAPTOGLOVE *********
 - CaptoGlove FAQ
 https://www.captoglove.com/support-help-faq
 - CaptoGlove Developers
@@ -39,7 +40,6 @@ https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk
 https://www.captoglove.com/downloads-sdk
 - NAO Starting Python SDK
 http://doc.aldebaran.com/2-1/getting_started/index.html
-
 
 Project Management
 - Free Jira Alternatives
