@@ -1,4 +1,5 @@
-# O.R.I.O.N. (Oriented Robotics Instrumentation On Natural life)
+# O.R.I.O.N. 
+(Oriented Robotics Instrumentation On Natural life)
 
 Code4Fun
 - How to find Orion
