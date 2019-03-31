@@ -9,6 +9,10 @@ https://www.youtube.com/watch?v=_7rED-5V_b8
 https://me.me/i/the-original-guardian-of-the-galaxy-anyone-remember-orion-from-3917249
 - He is the Maker of the Bear and Orion 
 https://www.slooh.com/community/post/3363
+- Avatar
+https://www.youtube.com/watch?v=6ziBFh3V1aM
+- Edge of Tomorrow
+https://www.youtube.com/watch?v=kJAaT13EMvA
 
 Tech Documentation
 - ********* NAO6 ROBOT *********
