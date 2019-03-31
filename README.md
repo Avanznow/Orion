@@ -53,6 +53,14 @@ https://machinelearningmastery.com/java-machine-learning
 https://www.udemy.com/apache-storm-tutorial
 - Apache SAMOA
 http://samoa.incubator.apache.org
+- ********* Brain Gate *********
+- Brain Connectivity Toolbox
+https://sites.google.com/site/bctnet
+- Open BCI
+https://shop.openbci.com/collections/frontpage
+- All in one bundle kit
+https://shop.openbci.com/collections/frontpage/products/all-in-one-biosensing-r-d-bundle
+
 - ********* Cloud Computing *********
 - VPS
 - Low Latency
