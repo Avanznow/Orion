@@ -42,6 +42,13 @@ https://www.captoglove.com/applications/developers-applications-portfolio
 https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk
 - CaptoGlove SDKs C++
 https://www.captoglove.com/downloads-sdk
+- ********* Machine Learning *********
+- Machine Learning 
+https://machinelearningmastery.com/java-machine-learning
+- Apache Storm
+https://www.udemy.com/apache-storm-tutorial
+- Apache SAMOA
+http://samoa.incubator.apache.org
 
 Project Management
 - Free Jira Alternatives
