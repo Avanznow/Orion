@@ -22,7 +22,7 @@ http://doc.aldebaran.com/2-1/family/robots/video_robot.html
 https://www.youtube.com/watch?v=nF2suPjTF9g
 - NAO Speech Recognition
 https://www.youtube.com/watch?v=5pMx-K7AnEA
-- NAO Python SDK
+- NAO Starting Python SDK
 http://doc.aldebaran.com/2-1/getting_started/index.html
 - ********* VIVE HTC *********
 - Using Skype with the Vive
@@ -40,8 +40,6 @@ https://www.captoglove.com/applications/developers-applications-portfolio
 https://www.captoglove.com/2018/06/captoglove-launches-unreal-sdk
 - CaptoGlove SDKs C++
 https://www.captoglove.com/downloads-sdk
-- NAO Starting Python SDK
-http://doc.aldebaran.com/2-1/getting_started/index.html
 
 Project Management
 - Free Jira Alternatives
