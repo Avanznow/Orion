@@ -49,6 +49,10 @@ https://machinelearningmastery.com/java-machine-learning
 https://www.udemy.com/apache-storm-tutorial
 - Apache SAMOA
 http://samoa.incubator.apache.org
+- ********* Cloud Computing *********
+- VPS
+- Low Latency
+- Cybersecurity
 
 Project Management
 - Free Jira Alternatives
