@@ -1,5 +1,5 @@
 # O.R.I.O.N. 
-(Oriented Robotics Instrumentation On Natural life)
+(Object-oriented Robotics Instrumentation Onto Natural life)
 
 Code4Fun
 - How to find Orion
