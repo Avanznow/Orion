@@ -31,8 +31,8 @@ https://www.youtube.com/watch?v=nF2suPjTF9g
 https://www.youtube.com/watch?v=5pMx-K7AnEA
 - NAO Starting Python SDK
 http://doc.aldebaran.com/2-1/getting_started/index.html
-- NAO Say Hi
-https://www.youtube.com/watch?v=SSD8DsVSrj4
+- NAO Aldebaran: Tutorial List
+https://www.youtube.com/watch?v=SSD8DsVSrj4&list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-
 - ********* VIVE HTC *********
 - Using Skype with the Vive
 https://www.reddit.com/r/Vive/comments/6k43jb/anyone_yet_figured_out_a_working_solution_to
