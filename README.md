@@ -68,6 +68,10 @@ https://shop.openbci.com/collections/frontpage
 - All in one bundle kit
 https://shop.openbci.com/collections/frontpage/products/all-in-one-biosensing-r-d-bundle
 
+- ********* Patents *********
+- humanoid robotic avatar EEG
+https://patents.google.com/?q=humanoid&q=robotic&q=avatar&q=EEG&oq=humanoid+robotic+avatar+EEG
+
 - ********* Cloud Computing *********
 - VPS
 - Low Latency
