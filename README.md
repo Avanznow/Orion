@@ -85,6 +85,8 @@ https://en.todoist.com/tour
 
 Documentation
 - Developer's Manual
+- Troubleshooting list
+- Bug report
 - User's Manual
 
 References
