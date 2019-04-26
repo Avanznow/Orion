@@ -23,6 +23,8 @@ Tech Documentation
 - ********* NAO6 ROBOT *********
 - Aldebaran / NAO Documentation
 http://doc.aldebaran.com/2-1/home_nao.html
+- Connecting with NAO
+http://doc.aldebaran.com/2-4/nao/webpage.html
 - How to get images from NAO Cameras
 http://doc.aldebaran.com/2-4/dev/python/examples/vision/get_image.html
 - NAO Video Camera documentation
