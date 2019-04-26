@@ -25,6 +25,8 @@ Tech Documentation
 http://doc.aldebaran.com/2-1/home_nao.html
 - Connecting with NAO
 http://doc.aldebaran.com/2-4/nao/webpage.html
+- Using a router with NAO
+https://www.tivipe.com/2016/09/02/connecting-a-nao-robot
 - How to get images from NAO Cameras
 http://doc.aldebaran.com/2-4/dev/python/examples/vision/get_image.html
 - NAO Video Camera documentation
