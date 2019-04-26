@@ -23,6 +23,8 @@ Tech Documentation
 - ********* NAO6 ROBOT *********
 - Aldebaran / NAO Documentation
 http://doc.aldebaran.com/2-1/home_nao.html
+- Download and install NAO SDK
+http://doc.aldebaran.com/2-5/dev/community_software.html
 - Connecting with NAO
 http://doc.aldebaran.com/2-4/nao/webpage.html
 - Using a router with NAO
